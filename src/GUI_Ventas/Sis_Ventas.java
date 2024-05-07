@@ -9,7 +9,7 @@ public class Sis_Ventas extends javax.swing.JFrame {
     double precio = 0;
     int cantidad = 0;
     DefaultTableModel modelo =  new DefaultTableModel();
-    ArrayList<SistemaDeVenta> listaVentas = new ArrayList<SistemaDeVenta>();
+    //ArrayList<SistemaDeVenta> listaVentas = new ArrayList<SistemaDeVenta>();
     private Object cboProducro;
     public Sis_Ventas() {
         initComponents();
